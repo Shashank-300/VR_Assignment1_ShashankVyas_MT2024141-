@@ -88,8 +88,6 @@ Visual Outputs
         The code successfully detects and outlines each coin.
         Each coin is extracted as an individual image.
         The total coin count is printed in the console.
-        Tip: Adjust the area thresholds (min_area, max_area) if your coins vary significantly in size or if you have background noise.
-
     Panorama Creation
         The script merges three overlapping images into a single panoramic image.
         Sufficient overlap and similar lighting conditions between the images lead to better results.
