@@ -61,26 +61,27 @@ Panorama Creation
 Visual Outputs
 1. Coin Detection & Segmentation
 
-Original Image, Detected Coins, and Segmented Coins
-![image](https://github.com/user-attachments/assets/d4a99894-79d4-4403-b3a9-da6e15771308)
-Segmented coins
-![image](https://github.com/user-attachments/assets/bcb4eef1-f09b-4e60-8f29-68c687c4a0bf)
-![image](https://github.com/user-attachments/assets/9ca1b882-36f7-4577-a685-5510ae464129)
-![image](https://github.com/user-attachments/assets/9c783508-5c59-4dd2-9e0b-647b0100e3fa)
-![image](https://github.com/user-attachments/assets/a30bc5c5-8678-4ed0-af21-e3a1d149d8de)
+   **Original Image, Detected Coins, and Segmented Coins**
+      ![image](https://github.com/user-attachments/assets/d4a99894-79d4-4403-b3a9-da6e15771308)
+
+   **Segmented coins**
+      ![image](https://github.com/user-attachments/assets/bcb4eef1-f09b-4e60-8f29-68c687c4a0bf)
+      ![image](https://github.com/user-attachments/assets/9ca1b882-36f7-4577-a685-5510ae464129)
+      ![image](https://github.com/user-attachments/assets/9c783508-5c59-4dd2-9e0b-647b0100e3fa)
+      ![image](https://github.com/user-attachments/assets/a30bc5c5-8678-4ed0-af21-e3a1d149d8de)
 
 2. Final Panorama
 
-###Input images
+**Input images**
 
 ![panroma1](https://github.com/user-attachments/assets/a3558839-6f90-4ac1-9dd8-7cb0c39caa80)
 ![panroma2](https://github.com/user-attachments/assets/811dba34-b4b1-4638-a9c0-98f0b9fdea40)
 ![panroma3](https://github.com/user-attachments/assets/9c72c20f-d836-41fc-8127-6a48dbc16228)
 
-###Stitched Image
+**Stitched Image**
 ![image](https://github.com/user-attachments/assets/2508f2aa-5582-4ea0-ba18-f96848af7e89)
 
-##Results & Observations
+**Results & Observations**
     Coin Detection & Segmentation
         The code successfully detects and outlines each coin.
         Each coin is extracted as an individual image.
