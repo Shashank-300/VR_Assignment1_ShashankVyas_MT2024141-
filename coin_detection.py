@@ -2,6 +2,10 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
+'''
+Coin Detection
+'''
+
 def detect_coins(image):
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     blurred = cv2.GaussianBlur(gray, (7, 7), 0)
@@ -42,12 +46,10 @@ def segment_coins(image, contours):
     return segmented_coins, coin_bound_box
 
 """
-Count the Total Number of Coins (2 Marks)
-Returns the total count of detected coins
+Count the Total Number of Coins
 """
 
 def count_coins(segmented_coins):
-
     return len(segmented_coins)
 
 def result_image(original, detected, coin_bound_box, segmented_coins):
@@ -81,7 +83,7 @@ def result_image(original, detected, coin_bound_box, segmented_coins):
 
 
 if __name__ == "__main__":
-    image_path = "coin3.jpeg"
+    image_path = "coinsun.jpeg"
     image = cv2.imread(image_path)
     if image is None:
         raise IOError(f"Could not read image: {image_path}")
