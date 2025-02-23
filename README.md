@@ -65,12 +65,14 @@ Visual Outputs
       ![image](https://github.com/user-attachments/assets/d4a99894-79d4-4403-b3a9-da6e15771308)
 
    **Segmented coins**
-      ![image](https://github.com/user-attachments/assets/bcb4eef1-f09b-4e60-8f29-68c687c4a0bf)
+   ```
+   ```
+   ![image](https://github.com/user-attachments/assets/bcb4eef1-f09b-4e60-8f29-68c687c4a0bf)
       ![image](https://github.com/user-attachments/assets/9ca1b882-36f7-4577-a685-5510ae464129)
       ![image](https://github.com/user-attachments/assets/9c783508-5c59-4dd2-9e0b-647b0100e3fa)
       ![image](https://github.com/user-attachments/assets/a30bc5c5-8678-4ed0-af21-e3a1d149d8de)
 
-2. Final Panorama
+3. Panorama
 
 **Input images**
 
