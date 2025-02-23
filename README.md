@@ -70,7 +70,7 @@ Segmented coins
 ![image](https://github.com/user-attachments/assets/a30bc5c5-8678-4ed0-af21-e3a1d149d8de)
 
 2. Final Panorama
-Input images
+   Input images
 ![panroma1](https://github.com/user-attachments/assets/a3558839-6f90-4ac1-9dd8-7cb0c39caa80)
 ![panroma2](https://github.com/user-attachments/assets/811dba34-b4b1-4638-a9c0-98f0b9fdea40)
 ![panroma3](https://github.com/user-attachments/assets/9c72c20f-d836-41fc-8127-6a48dbc16228)
