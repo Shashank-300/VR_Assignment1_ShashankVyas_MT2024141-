@@ -84,7 +84,8 @@ Visual Outputs
 ![image](https://github.com/user-attachments/assets/2508f2aa-5582-4ea0-ba18-f96848af7e89)
 
 **Results & Observations**
-    Coin Detection & Segmentation
+   
+   Coin Detection & Segmentation
         The code successfully detects and outlines each coin.
         Each coin is extracted as an individual image.
         The total coin count is printed in the console.
