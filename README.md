@@ -88,7 +88,8 @@ Visual Outputs
         The code successfully detects and outlines each coin.
         Each coin is extracted as an individual image.
         The total coin count is printed in the console.
-    Panorama Creation
+   
+   Panorama Creation
         The script merges three overlapping images into a single panoramic image.
         Sufficient overlap and similar lighting conditions between the images lead to better results.
         Advanced blending techniques can be added to reduce visible seams.
