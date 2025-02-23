@@ -25,7 +25,7 @@ You can install the required libraries using pip:
 
 ```bash
 pip install opencv-python opencv-contrib-python numpy matplotlib
-
+```
 How to Run
     Coin Detection & Segmentation
 python coin_detection.py
